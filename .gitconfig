@@ -1,0 +1,13 @@
+[color]
+	ui = auto
+[commit]
+	template = /home/apuser/.commit_template
+[user]
+	name = dongpl
+	email = dongpl@spreadst.com
+[core]
+	editor = vim
+	autocrlf = false
+	safecrlf = true
+[push]
+	default = simple
